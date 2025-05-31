@@ -1,8 +1,6 @@
 # 内容：TikTok
-# 数量：13条
+# 数量：11条
 USER-AGENT,TikTok*
-DOMAIN-SUFFIX,tiktokv.us
-DOMAIN-WILDCARD,*.tiktokv.*
 DOMAIN-KEYWORD,tiktokcdn
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,ibytedtos.com
@@ -12,7 +10,4 @@ DOMAIN-SUFFIX,musical.ly
 DOMAIN-SUFFIX,tik-tokapi.com
 DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tiktokcdn.com
-DOMAIN-SUFFIX,tiktokcdn-us.com
 DOMAIN-SUFFIX,tiktokv.com
-DOMAIN,api16-normal-useast8.tiktokv.us
-DOMAIN,tnc16-normal-useast8.tiktokv.us
